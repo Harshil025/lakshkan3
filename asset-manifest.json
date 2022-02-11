@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lakshkan3/static/css/main.46936976.css",
+    "main.js": "/lakshkan3/static/js/main.50d1e0b2.js",
+    "static/media/hyy.gif": "/lakshkan3/static/media/hyy.129b5492bc80d870b723.gif",
+    "static/media/d1.png": "/lakshkan3/static/media/d1.5d7bbbd119e786c2f94f.png",
+    "static/media/a2.jpeg": "/lakshkan3/static/media/a2.210efa60444bcfe54931.jpeg",
+    "static/media/kkk.gif": "/lakshkan3/static/media/kkk.81316ca9d900a01522e8.gif",
+    "static/media/m2.jpg": "/lakshkan3/static/media/m2.6bfe08f485b9947ec293.jpg",
+    "static/media/to.png": "/lakshkan3/static/media/to.6b47a3d3e78a5755e058.png",
+    "static/media/m1.jpg": "/lakshkan3/static/media/m1.63ca87bcc41596310379.jpg",
+    "static/media/a1.jpg": "/lakshkan3/static/media/a1.bd0f66781952fe2375c2.jpg",
+    "static/media/w1.jpg": "/lakshkan3/static/media/w1.54c40787d51645b554b8.jpg",
+    "index.html": "/lakshkan3/index.html",
+    "main.46936976.css.map": "/lakshkan3/static/css/main.46936976.css.map",
+    "main.50d1e0b2.js.map": "/lakshkan3/static/js/main.50d1e0b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46936976.css",
+    "static/js/main.50d1e0b2.js"
+  ]
+}
